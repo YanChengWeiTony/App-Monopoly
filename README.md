@@ -6,3 +6,4 @@ physics.
 into the game, and the main structure of the game. I am also responsible for all client-end design
 and partly involve server-end work.
 
+![image](https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png)
