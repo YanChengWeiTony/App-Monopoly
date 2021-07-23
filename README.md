@@ -16,4 +16,16 @@ https://drive.google.com/file/d/1r831humJYaSVYFym1lud5eIEWScrnjYE/view
 or
 https://drive.google.com/drive/folders/1Eq4n0tGFCKH34KN42LrRmBelTVXsIy1s
 
-![image](https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png)
+<!-- ![image](https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png) -->
+
+<img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png" width="200" height="300">
+
+## Usage
+
+Requirements: Unity 5.6 and above
+
+```
+git clone https://github.com/YanChengWeiTony/Apps-Monopoly.git
+cd Apps-Monopoly
+```
+Then use the Unity and import it.
