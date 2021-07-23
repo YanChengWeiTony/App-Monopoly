@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1Eq4n0tGFCKH34KN42LrRmBelTVXsIy1s
 3. get the code by
   ```
   git clone https://github.com/YanChengWeiTony/Apps-Monopoly.git
-  cd Apps-Monopoly
+  cd App-Monopoly
   ```
   Then use the Unity and import it.
 
