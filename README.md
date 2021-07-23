@@ -22,10 +22,14 @@ https://drive.google.com/drive/folders/1Eq4n0tGFCKH34KN42LrRmBelTVXsIy1s
 
 ## Usage
 
-Requirements: Unity 5.6 and above
+1. Requirements: Unity 5.6 and above
+2. For the "monopoly_for_staff" and "monopoly_for_staff_尺寸修改版", since the sizes are too large, please download it throught the link: https://drive.google.com/drive/folders/1Eq4n0tGFCKH34KN42LrRmBelTVXsIy1s?usp=sharing
+3. get the code by
+  ```
+  git clone https://github.com/YanChengWeiTony/Apps-Monopoly.git
+  cd Apps-Monopoly
+  ```
+  Then use the Unity and import it.
 
-```
-git clone https://github.com/YanChengWeiTony/Apps-Monopoly.git
-cd Apps-Monopoly
-```
-Then use the Unity and import it.
+
+
