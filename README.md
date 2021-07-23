@@ -1,4 +1,4 @@
-# [Apps] Monopoly
+# [App] Monopoly
 
 
 The app is for assisting the activity in physics department at National Taiwan University (NTU). 
