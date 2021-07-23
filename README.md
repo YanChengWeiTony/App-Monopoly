@@ -5,6 +5,7 @@ The app is for assisting the activity in physics department at National Taiwan U
 
 Specifically, the physics department of NTU held the event " The Physics Night" (物理之夜), which is the an public performance event for physics students. The performance includes dancing, singing, playlets, etc. For advertising, some students in the department decide to design an interactive app to assist this event.
 
+The project is collaborated with Che Chiang and Jun-Ting Guo
 
 1. Description: To help engaging one of the activity (Monopoly) in orientation camp in NTU
 physics.
@@ -18,7 +19,9 @@ https://drive.google.com/drive/folders/1Eq4n0tGFCKH34KN42LrRmBelTVXsIy1s
 
 <!-- ![image](https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png) -->
 
-<img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png" width="200" height="300">
+<img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display.png" width="200" height="300"> <img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display2.png" width="200" height="300"> <img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display3.png" width="200" height="300">
+
+<img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display4.png" width="200" height="300"> <img src="https://github.com/YanChengWeiTony/Apps-Monopoly/blob/master/display5.png" width="200" height="300">
 
 ## Usage
 
